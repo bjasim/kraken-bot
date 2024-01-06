@@ -8,10 +8,6 @@ import hmac
 import base64
 
 
-# put your api key below
-api_key = ""
-# put your private key below
-api_sec = ""
 api_url = "https://api.kraken.com"
 
 def get_kraken_signature(urlpath, data, secret):

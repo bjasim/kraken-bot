@@ -29,7 +29,7 @@ api_sec = "your_api_secret"
 ## Usage
 Run the Python script in your terminal or preferred Python environment.
 ```
-python kraken_api.py
+python kraken_bot.py
 ```
 
 The script will access your Kraken account's trade history using the API.
